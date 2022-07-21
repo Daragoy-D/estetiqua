@@ -1,0 +1,8 @@
+<div class="fb-follow" data-href="https://www.facebook.com/estetiqua" data-layout="button" data-show-faces="true"></div> 
+					<script src="https://apis.google.com/js/platform.js" async defer>
+					  {lang: 'ru'}
+					</script>
+
+						<div class="gg">
+							<div class="g-plus" data-action="share" data-annotation="none" data-height="24"></div>
+						</div>

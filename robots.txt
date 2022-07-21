@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /price/
+Disallow: /share/
+Disallow: /test/
+Disallow: /trash/
